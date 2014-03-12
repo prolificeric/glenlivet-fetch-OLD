@@ -1,7 +1,8 @@
-var glenlivet = require('../glenlivet');
+var glenlivet = require('glenlivet');
 var prolific = glenlivet.createBarrel({});
+var fetch = require('../lib/fetch');
 
-require('../lib/fetch');
+prolific.plugins.register(fetch);
 
 prolific.createBottle('instancesOf', {
 	fetch: {
