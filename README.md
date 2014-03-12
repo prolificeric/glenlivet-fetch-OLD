@@ -1,5 +1,10 @@
 # glenlivet-fetch
 
+[![Build Status](https://travis-ci.org/prolificeric/glenlivet-fetch.png?branch=master)](https://travis-ci.org/prolificeric/glenlivet-fetch)
+[![Coverage Status](https://coveralls.io/repos/prolificeric/glenlivet-fetch/badge.png)](https://coveralls.io/r/prolificeric/glenlivet-fetch)
+[![Dependencies Status](https://david-dm.org/prolificeric/glenlivet-fetch.png)](https://david-dm.org/prolificeric/glenlivet.png)
+[![Code Climate](https://codeclimate.com/github/prolificeric/glenlivet-fetch.png)](https://codeclimate.com/github/prolificeric/glenlivet)
+
 Insert the results of HTTP requests into [Glenlivet](https://github.com/prolificeric/glenlivet) processing workflows.
 
 ## Installation
