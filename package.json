@@ -1,7 +1,7 @@
 {
   "name": "glenlivet-fetch",
   "version": "0.0.1",
-  "description": "A Glenlivet plugin to assemble and execute an HTTP request",
+  "description": "Insert the results of HTTP requests into Glenlivet processing workflows.",
   "main": "index.js",
   "directories": {
     "example": "examples",
