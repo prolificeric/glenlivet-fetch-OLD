@@ -1,0 +1,40 @@
+{
+  "name": "glenlivet-fetch",
+  "version": "0.0.1",
+  "description": "A Glenlivet plugin to assemble and execute an HTTP request",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "glenlivet",
+    "plugin"
+  ],
+  "author": "Eric Weber",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^3.1.3",
+    "mocha": "^1.17.1",
+    "blanket": "^1.1.6",
+    "mocha-lcov-reporter": "0.0.1",
+    "coveralls": "^2.8.0",
+    "glenlivet": "^0.0.2",
+    "express": "^3.4.8"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "request": "^2.34.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:prolificeric/glenlivet-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prolificeric/glenlivet-fetch/issues"
+  },
+  "homepage": "https://github.com/prolificeric/glenlivet-fetch"
+}
