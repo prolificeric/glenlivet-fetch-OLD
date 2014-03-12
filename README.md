@@ -42,7 +42,6 @@ var bottle = new Bottle({
 		bodyType: 'form', //"form" or "json". Defaults to "form".
 		uri: 'http://www.prolificinteractive.com/form'
 	}
-}
 })
 ```
 
